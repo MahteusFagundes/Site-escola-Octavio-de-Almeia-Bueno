@@ -155,7 +155,6 @@ right:15px;
    width: 400px;
 height: 200px;
 }
-
 /* Responsivo */
 @media (max-width: 768px) { 
 .nav-links { position: fixed; left: -100%; top: 70px; flex-direction: column; background: var(--primary); width: 100%; padding: 2rem; transition: left 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1); } 
@@ -166,5 +165,10 @@ height: 200px;
 .sobre-content { grid-template-columns: 1fr; } 
 h2 { font-size: 2rem; } 
 .logo { font-size: 1rem; } 
-.carousel { height: 300px; }
+.carousel { height: 250px; }
+.image-placeholder { height: auto; min-height: 300px; padding: 1.5rem; }
+.image-school { width: 100%; height: auto; }
+.prev, .next { width: 35px; height: 35px; font-size: 18px; }
 }
+
+
