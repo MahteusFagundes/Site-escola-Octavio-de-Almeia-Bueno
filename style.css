@@ -162,10 +162,6 @@ right:15px;
    width: 400px;
 height: 200px;
 }
-.image-school1{
-   width: 400px;
-height: 200px;
-}
 
 @media(max-width:768px){
      html, body{
@@ -217,6 +213,7 @@ height: 200px;
 
      
 }
+
 
 
 
