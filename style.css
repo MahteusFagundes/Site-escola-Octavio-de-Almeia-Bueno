@@ -175,7 +175,9 @@ height: 200px;
           margin: 20px 0;
      }
 
-      .image-school,
+        .image-school1{
+            width:100%;
+            height: auto;
        .image-school2{
             width:100%;
             height: auto;
@@ -203,5 +205,6 @@ height: 200px;
 
      
 }
+
 
 
