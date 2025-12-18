@@ -155,3 +155,48 @@ right:15px;
    width: 400px;
 height: 200px;
 }
+@media(max-width:768px){
+     html, body{
+          max-width: 100%;
+          overflow-x: hidden;
+     }
+     .hero{
+          padding:120px 1rem 80px;
+     }
+     .hero h1 {
+          font-size:1.8rem;
+     }
+.carousel{
+     width:100%;
+     height:220px;
+}
+     .avisos{
+          width:100%
+          margin: 20px 0;
+     }
+
+      .image-school,
+       .image-school2{
+            width:100%
+            height: auto;
+       }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+}
