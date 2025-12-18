@@ -180,7 +180,10 @@ height: 200px;
             width:100%
             height: auto;
        }
-
+.image-placeholder{
+     height:auto;
+     padding: 12px;
+}
 
 
 
@@ -200,3 +203,4 @@ height: 200px;
 
      
 }
+
