@@ -171,13 +171,13 @@ height: 200px;
      height:220px;
 }
      .avisos{
-          width:100%
+          width:100%;
           margin: 20px 0;
      }
 
       .image-school,
        .image-school2{
-            width:100%
+            width:100%;
             height: auto;
        }
 .image-placeholder{
@@ -203,4 +203,5 @@ height: 200px;
 
      
 }
+
 
