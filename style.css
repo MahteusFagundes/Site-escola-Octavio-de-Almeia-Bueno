@@ -155,6 +155,14 @@ right:15px;
    width: 400px;
 height: 200px;
 }
+.contact-icon.whatsapp {
+  color: #25D366;
+}
+
+.contact-icon.whatsapp svg {
+  width: 32px;
+  height: 32px;
+}
 @media(max-width:768px){
      html, body{
           max-width: 100%;
@@ -205,6 +213,7 @@ height: 200px;
 
      
 }
+
 
 
 
